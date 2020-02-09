@@ -4,12 +4,10 @@ This project is meant to create graphically beautiful interactive Julia Sets, Ma
 <img align="center" src="https://github.com/tpokalch/Fract-ol/blob/master/screens/Screen%20Shot%202020-02-08%20at%206.22.18%20PM.png" width="100%"/>
 
 
-<img align="center" src="https://github.com/tpokalch/Fract-ol/blob/master/screens/Screen%20Shot%202020-02-08%20at%206.23.02%20PM.png
-" width="100%"/>
+<img align="center" src="https://github.com/tpokalch/Fract-ol/blob/master/screens/Screen%20Shot%202020-02-08%20at%206.23.02%20PM.png" width="100%"/>
 
 
-<img align="center" src="https://github.com/tpokalch/Fract-ol/blob/master/screens/Screen%20Shot%202020-02-08%20at%206.24.36%20PM.png
-" width="100%"/>
+<img align="center" src="https://github.com/tpokalch/Fract-ol/blob/master/screens/Screen%20Shot%202020-02-08%20at%206.24.36%20PM.png" width="100%"/>
 
 
 
