@@ -15,8 +15,6 @@ This project is meant to create graphically beautiful interactive Julia Sets, Ma
 
 Click on video below:
 
-<p align="center">
 [![fractol](https://i.imgur.com/U0McxGE.jpg)](https://youtu.be/TKGhiHbP4iM)
-</p>
 
 
