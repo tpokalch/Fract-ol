@@ -13,5 +13,7 @@ This project is meant to create graphically beautiful interactive Julia Sets, Ma
   <img width="50%" src="https://github.com/tpokalch/Fract-ol/blob/master/screens/Screen%20Shot%202020-02-08%20at%206.24.36%20PM.png" width="50%">
 </p>
 
+[![fractol](https://i.imgur.com/U0McxGE.jpg)](https://youtu.be/TKGhiHbP4iM)
+
 
 
